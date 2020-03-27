@@ -1,7 +1,7 @@
-<h1 align="center">
+<h4 align="center">
     <img alt="Semana OmniStack" src="frontend/src/assets/logo.svg" width="200px" />
     <b>Seja um verdadeiro Heroi!</b> 🦸‍
-</h1>
+</h4>
 
 <h2 align="center">
   <br/>
