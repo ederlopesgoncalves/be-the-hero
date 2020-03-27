@@ -1,6 +1,8 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
+    <img alt="Semana OmniStack" src="frontend/src/assets/logo.svg" width="200px" />
 </h1>
+
+<br/>
 
 <h2 align="center">
   <br/>
