@@ -2,8 +2,6 @@
     <img alt="Semana OmniStack" src="frontend/src/assets/logo.svg" width="200px" />
 </h1>
 
-<br/>
-
 <h2 align="center">
   <br/>
   🚀 Semana Omnistack 11.0
