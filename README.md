@@ -18,6 +18,7 @@ The **Be The Hero** is a project to connect people interested in helping ONGs an
 <br/>
 
 <p align="center">
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
