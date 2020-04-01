@@ -43,8 +43,8 @@ Extras:
 - Libs
   - [Express](https://expressjs.com/pt-br/)
   - [KnexJS](http://knexjs.org/)
+  - [JestJS](https://jestjs.io/)
 - Estilos
   - [EditorConfig](https://editorconfig.org/)
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
-
