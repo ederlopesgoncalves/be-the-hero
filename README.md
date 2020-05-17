@@ -4,9 +4,9 @@
     <b>Seja um verdadeiro Heroi!</b> 🦸‍
 </h4>
 
-[![BACK-END](https://img.shields.io/badge/NodeJS-green?logo=Node.js&logoColor=green&label=BackEnd&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/be-the-hero/backend)
-[![FRONT-END](https://img.shields.io/badge/ReactJS-blue?logo=React&logoColor=blue&label=FrontEnd&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/be-the-hero/frontend)
-[![MOBILE](https://img.shields.io/badge/ReactNative-9cf?logo=React&logoColor=9cf&label=Mobile&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/be-the-hero/mobile)
+[![BACK-END](https://img.shields.io/badge/NodeJS-green?logo=Node.js&logoColor=green&label=BackEnd&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/be-the-hero)
+[![FRONT-END](https://img.shields.io/badge/ReactJS-blue?logo=React&logoColor=blue&label=FrontEnd&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/be-the-hero)
+[![MOBILE](https://img.shields.io/badge/ReactNative-9cf?logo=React&logoColor=9cf&label=Mobile&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/be-the-hero)
 
 <h2 align="center">
   🚀 Semana Omnistack 11.0
