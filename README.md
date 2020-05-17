@@ -51,3 +51,21 @@ Extras:
   - [EditorConfig](https://editorconfig.org/)
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
+
+
+## Instalar dependências
+```bash
+npm install
+```
+## Iniciar knex com o arquivo de configuração do banco de dados
+```bash
+npx knex init
+```
+## Criar Database
+```bash
+npx knex migrate:latest
+```
+## Iniciar Servidor
+```bash
+npm start
+```
