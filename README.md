@@ -4,8 +4,11 @@
     <b>Seja um verdadeiro Heroi!</b> 🦸‍
 </h4>
 
+[![BACK-END](https://img.shields.io/badge/NodeJS-green?logo=Node.js&logoColor=green&label=BackEnd&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/backend)
+[![FRONT-END](https://img.shields.io/badge/ReactJS-blue?logo=React&logoColor=blue&label=FrontEnd&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/frontend)
+[![MOBILE](https://img.shields.io/badge/ReactNative-9cf?logo=React&logoColor=9cf&label=Mobile&labelColor=black&style=flat-square)](https://github.com/ederlopesgoncalves/mobile)
+
 <h2 align="center">
-  <br/>
   🚀 Semana Omnistack 11.0
 </h2>
 
